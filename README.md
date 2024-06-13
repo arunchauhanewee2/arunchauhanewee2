@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arunchauhan
 - 👀 I’m interested in inovation
-- 🌱 I’m currently blockchain
+- 🌱 I’m currently blockchain developer trainee
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
